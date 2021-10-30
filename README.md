@@ -15,6 +15,11 @@
 
 <b>The plan is to make a Command Line Interface (CLI) version of <a href="https://Encipherr.pythonanywhere.com/" target="_blank">Encipherr</a> for the offline usage.</b>
 
+## Why the need of a CLI version ?
+- Offline access
+- your data will be processed locally which means more security.
+- lightweight,no need for a browser.
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
