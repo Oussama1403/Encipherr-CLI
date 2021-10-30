@@ -19,7 +19,7 @@
 - Offline access
 - your data will be processed locally which means more security.
 - lightweight,no need for a browser.
-## Deveploment
+## Development
 <b>Project files will be soon uploaded to this repo</b>
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
