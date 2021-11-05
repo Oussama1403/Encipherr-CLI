@@ -20,6 +20,11 @@
 - Offline access
 - your data will be processed locally which means more security.
 - lightweight,no need for a browser.
+## Usage
+ type in your terminal:
+ ```
+  python3 encipherr.py -h
+ ```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
