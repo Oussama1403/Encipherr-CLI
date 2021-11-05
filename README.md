@@ -20,6 +20,11 @@
 - Offline access
 - your data will be processed locally which means more security.
 - lightweight,no need for a browser.
+## requirements:
+  - python 3.8
+  - cryptography module
+  - argparse
+  
 ## Usage
  In your terminal type:
  ```
