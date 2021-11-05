@@ -21,7 +21,7 @@
 - your data will be processed locally which means more security.
 - lightweight,no need for a browser.
 ## Usage
- type in your terminal:
+ In your terminal type:
  ```
   python3 encipherr.py -h
  ```
