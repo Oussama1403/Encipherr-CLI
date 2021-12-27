@@ -13,8 +13,7 @@
   <img  src="https://img.shields.io/github/issues-pr/Oussama1403/Encipherr-CLI" />
 </p>
 
-<b>A command line interface (CLI) version of <a href="https://Encipherr.pythonanywhere.com/" target="_blank">Encipherr</a> for the offline usage.</b>\
-<b>Encipherr-cli is at alpha stage so it is unstable and expect a lot of bugs.
+<b>A command line interface (CLI) version of <a href="https://Encipherr.pythonanywhere.com/" target="_blank">Encipherr</a> for the offline usage.</b>
 
 ## Why the need of a CLI version ?
 - Offline access
