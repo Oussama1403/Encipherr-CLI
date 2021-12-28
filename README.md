@@ -16,9 +16,10 @@
 <b>A command line interface (CLI) version of <a href="https://Encipherr.pythonanywhere.com/" target="_blank">Encipherr</a> for the offline usage.</b>
 
 ## Why the need of a CLI version ?
-- Offline access
+- offline access
 - your data will be processed locally which means more security.
 - lightweight,no need for a browser.
+- more features than the web version. 
 ## Requirements:
   - python 3.8
   - cryptography module
